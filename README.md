@@ -1,7 +1,7 @@
 ---
 author: Kiet Tran
 title: Rock-Paper-Scissor game
-id: tic-tac-toe_game_trancaodua
+id: tic-tac-toe
 ---
 
 # Tic Tac Toe Game
