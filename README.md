@@ -39,7 +39,7 @@ Repositories has 3 branch:
 
 Guide checkout `requirements` branch to code:
 
-- Step 1: Clone repositories. Run: `git clone https://github.com/trancaodua/tic-tac-toe-game.git`
+- Step 1: Clone repositories. Run: `git clone https://github.com/kiettt23/tic_tac_toe_react.git`
 - Step 2: Checkout requirement brank to do. Run: `git checkout requirements`
 
 Guide checkout `solution` branch to check answer:
